@@ -6,7 +6,7 @@ I am a Data Analyst, Data Scientist, and Business Intelligence Analyst. I recent
 
 ## Skills and Expertise
 
-**Programming Languages:** R (Tidyverse), Python (Pandas, NumPy, Scikit-learn), Excel, SQL (MS Access, SQLite3)
+**Programming Languages:** R (Tidyverse), Python (Pandas, NumPy, Scikit-learn), SQL (MS Access, SQLite3)
 
 **Machine Learning:** Supervised Learning (Linear Models, KNN, Naive Bayes), Unsupervised Learning (Clustering, PCA)
 
@@ -16,7 +16,7 @@ I am a Data Analyst, Data Scientist, and Business Intelligence Analyst. I recent
 
 **Data Visualization:** Tableau, Power BI, R (GGplot2, Shiny App, GGPlotly), Python (Matplotlib, Seaborn)
 
-**Other:** Google Analytics, Adobe Analytics, Qlik Replicate (Attunity)
+**Tools:** Excel, Google Analytics, Adobe Analytics, Qlik Replicate (Attunity)
 
 ## More About Me:
 * 🏈 **Collegiate Student-Athlete** — Played college football as a running-back, but I developed more so as a leader. Being a Team Captain, a 2-year Member of the Leadership Committee, and the recipient of the Bearcat Leadership Award following my final season. I have applied my *lead by example* work-ethic from sports to data science & business. Continuously improving my skillsets and using it to help organizations.
