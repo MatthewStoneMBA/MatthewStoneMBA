@@ -2,7 +2,8 @@
 
 I am a Data Analyst, Data Scientist, and Business Intelligence Analyst. I recently graduated with an M.S. in Data Science (Aug '21) on top of my MBA ('20), both from Willamette University, go Bearcats! I am passionate about creating and communicating data insights through the use of effective data visualization. Through my coursework and real-world experiences, I have an array of projects ranging from developing Dashboards to Natural Language Processing. **Check out my pinned Repos for more information!** 
 
-* Here's a link to my [Resume!](https://docs.google.com/document/d/1gw_gBMmj1hvEuuvwwN1rY_L9KkJGXKCq/edit?usp=sharing&ouid=109225830212151466913&rtpof=true&sd=true)
+* Here's a link to my [Data Scientist Resume!](https://docs.google.com/document/d/1gw_gBMmj1hvEuuvwwN1rY_L9KkJGXKCq/edit?usp=sharing&ouid=109225830212151466913&rtpof=true&sd=true)
+* * Here's a link to my [Data Analyst / BI Analyst Resume!](https://docs.google.com/document/d/1gw_gBMmj1hvEuuvwwN1rY_L9KkJGXKCq/edit?usp=sharing&ouid=109225830212151466913&rtpof=true&sd=true)
 
 ## Skills and Expertise
 
